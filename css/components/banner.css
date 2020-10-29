@@ -1,0 +1,27 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1520483601560-389dff434fdf);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.banner h1{
+  color: white;
+}
+
+.banner p{
+  color: white;
+  font-size: 20px;
+}
+
+.btn-discover {
+  color: white;
+  background: #0770e3;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+.btn-discover:hover {
+  background: #042759;
+}
